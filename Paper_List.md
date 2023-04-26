@@ -1,4 +1,4 @@
-# EEG SyStems : Intpertable AI Paper List
+# EEG Systems : Intpertable AI Paper List
 
 | Paper Title | Authors | Interpretability Categories | Interpretability Methods | Code |
 | --- | --- | --- | --- | --- |
