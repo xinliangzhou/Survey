@@ -2,7 +2,7 @@
 
 | Paper ID | Paper Title | Authors & Published@| Interpretability Categories | Interpretability Methods | Coverage |Explanation Type |PDF|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | By J.-S. Bang et al. @ TNNLS 2021| Backpropagation | LRP | Local/Global | Attribution | / |
+| 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | By J.-S. Bang et al. @ TNNLS 2021| Backpropagation | LRP | Local/Global | Attribution | <a href=https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9325918>PDF</a> |
 | 2 | A gradient-based approach for explaining multimodal deep learning classifiiers | By C. A Ellis et al. @ BIBE 2021| Backpropagation | LRP | Local/Global | Attribution | / |
 | 3 | Relevance based channel selection in motor imagery brain-computer interface | A. Nagarajan et al. | Backpropagation | LRP | Local/Global | Attribution | /|
 | 4 | Interpreting EEG-based motor imagery classification using attention-based deep neural networks | Yuchen Liu et al. | Deep Learning | Attention-based Neural Network |  | /| |
