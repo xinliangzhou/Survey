@@ -15,13 +15,6 @@
 
 
 
-
-
-
-
-
-
-
 # EEG Systems : Robust AI Paper List
 
 | Paper ID | Paper Title | Authors | Interpretability Categories | Interpretability Methods | Coverage | Code |
