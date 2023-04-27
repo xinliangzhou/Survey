@@ -1,6 +1,6 @@
 # EEG Systems : Interpretable AI Paper List
 
-| Paper ID | Paper Title | Authors and Published@| Interpretability Categories | Interpretability Methods | Coverage |Explanation Type |Code |
+| Paper ID | Paper Title | Authors & Published@| Interpretability Categories | Interpretability Methods | Coverage |Explanation Type |PDF|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | By J.-S. Bang et al. @ TNNLS 2021| Backpropagation | LRP | Local/Global | Attribution | / |
 | 2 | A gradient-based approach for explaining multimodal deep learning classifiiers | By C. A Ellis et al. @ BIBE 2021| Backpropagation | LRP | Local/Global | Attribution | / |
