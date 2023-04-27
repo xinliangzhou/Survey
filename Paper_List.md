@@ -1,9 +1,9 @@
 # EEG Systems : Interpretable AI Paper List
 
-| Paper ID | Paper Title | Authors | Interpretability Categories | Interpretability Methods | Coverage |Explanation Type |Code |
+| Paper ID | Paper Title | Authors and Published@| Interpretability Categories | Interpretability Methods | Coverage |Explanation Type |Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | J.-S. Bang et al. | Backpropagation | LRP | Local/Global | Attribution | / |
-| 2 | A gradient-based approach for explaining multimodal deep learning classifiiers | C. A Ellis et al. | Backpropagation | LRP | Local/Global | Attribution | / |
+| 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | By J.-S. Bang et al. @ TNNLS 2021| Backpropagation | LRP | Local/Global | Attribution | / |
+| 2 | A gradient-based approach for explaining multimodal deep learning classifiiers | By C. A Ellis et al. @ BIBE 2021| Backpropagation | LRP | Local/Global | Attribution | / |
 | 3 | Relevance based channel selection in motor imagery brain-computer interface | A. Nagarajan et al. | Backpropagation | LRP | Local/Global | Attribution | /|
 | 4 | Interpreting EEG-based motor imagery classification using attention-based deep neural networks | Yuchen Liu et al. | Deep Learning | Attention-based Neural Network |  | /| |
 | 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / | |
