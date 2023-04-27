@@ -2,7 +2,7 @@
 
 | Paper ID | Paper Title | Authors & Published@| Interpretability Categories | Interpretability Methods | Coverage |Explanation Type |PDF|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | By J.-S. Bang et al. @ *TNNLS 2021*| Backpropagation | LRP | Local/Global | Attribution | <a href=https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9325918>PDF</a> |
+| 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | By J.-S. Bang et al. @ *TNNLS 2021*| Backpropagation | LRP | Local/Global | Attribution | <a href=https://ieeexplore.ieee.org./document/9325918>PDF</a> |
 | 2 | A gradient-based approach for explaining multimodal deep learning classifiiers | By C. A Ellis et al. @ *BIBE 2021*| Backpropagation | LRP | Local/Global | Attribution | <a href=https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9635460>PDF</a> |
 | 3 | Relevance based channel selection in motor imagery brain-computer interface | A. Nagarajan et al. @ *JNE 2022*| Backpropagation | LRP | Local/Global | Attribution |  <a href=https://iopscience.iop.org/article/10.1088/1741-2552/acae07/pdf>PDF</a>|
 | 4 | EEGNet: a compact convolutional neural network for eeg-based brain–computer interfaces | V. J. Lawhern et al. @ *JNE 2018*| Backpropagation | DeepLift |Local | Attribution |<a href=https://iopscience.iop.org.remotexs.ntu.edu.sg/article/10.1088/1741-2552/aace8c>PDF</a>|
