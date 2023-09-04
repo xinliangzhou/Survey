@@ -8,7 +8,9 @@
 | 4 | EEGNet: a compact convolutional neural network for eeg-based brain–computer interfaces | V. J. Lawhern et al. @ *JNE 2018*| Backpropagation | DeepLift |Local | Attribution |<a href=https://iopscience.iop.org./article/10.1088/1741-2552/aace8c>PDF</a>|
 | 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / | |
 | 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-
+| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
+| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
+| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
 
 
 
