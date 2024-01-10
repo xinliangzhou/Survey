@@ -21,8 +21,8 @@
 | 17 |Fine-grained Interpretability for EEG Emotion Recognition: Concat-aided Grad-CAM and Systematic Brain Functional Network | Bingxiu Liu et al. @ *IEEE TAFFC 2023*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/10160113>PDF</a>|
 | 18 |EEG-based intention recognition with deep recurrent-convolution neural network: Performance and channel selection by Grad-CAM | Yurong Li et al. @ *Neurocomputing 2020*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://www.sciencedirect.com/science/article/abs/pii/S0925231220311863>PDF</a>|
 | 19 |Deep learning reveals personalized spatial spectral abnormalities of high delta and low alpha bands in EEG of patients with early Parkinson's disease | Chunguang Chu et al. @ *JNE 2021*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ac40a0/meta>PDF</a>|
-
-
+| 21 |Deep residual convolutional neural networks for brain–computer interface to visualize neural processing of hand movements in the human brain | Yosuke Fujiwara et al. @ *Frontiers in Computational Neuroscience 2022*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://www.frontiersin.org/articles/10.3389/fncom.2022.882290/full>PDF</a>|
+| 22 |Use of deep learning to detect personalized spatial-frequency abnormalities in EEGs of children with ADHD | He Chen et al. @ *JNE 2019*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ab3a0a/meta>PDF</a>|
 
 
 
