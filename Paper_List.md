@@ -23,7 +23,11 @@
 | 19 |Deep learning reveals personalized spatial spectral abnormalities of high delta and low alpha bands in EEG of patients with early Parkinson's disease | Chunguang Chu et al. @ *JNE 2021*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ac40a0/meta>PDF</a>|
 | 21 |Deep residual convolutional neural networks for brain–computer interface to visualize neural processing of hand movements in the human brain | Yosuke Fujiwara et al. @ *Frontiers in Computational Neuroscience 2022*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://www.frontiersin.org/articles/10.3389/fncom.2022.882290/full>PDF</a>|
 | 22 |Use of deep learning to detect personalized spatial-frequency abnormalities in EEGs of children with ADHD | He Chen et al. @ *JNE 2019*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ab3a0a/meta>PDF</a>|
+| 23 |Visual Explanations of Deep Convolutional Neural Network for eye blinks detection in EEG-based BCI applications | Michele Lo Giudice et al. @ *IJCNN 2012*| Perturbation-based | LIME |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9892567>PDF</a>|
+| 24 |Trial-based classification of haptic tasks based on eeg data | Haneen Alsuradi et al. @ *WHC 2021*| Perturbation-based | LIME |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9517230>PDF</a>|
 
+| 23 |Use of deep learning to detect personalized spatial-frequency abnormalities in EEGs of children with ADHD | He Chen et al. @ *JNE 2019*| Perturbation-based | LIME |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ab3a0a/meta>PDF</a>|
+| 23 |Use of deep learning to detect personalized spatial-frequency abnormalities in EEGs of children with ADHD | He Chen et al. @ *JNE 2019*| Perturbation-based | LIME |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ab3a0a/meta>PDF</a>|
 
 
 # EEG Systems : Robust AI Paper List
