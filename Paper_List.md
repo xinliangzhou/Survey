@@ -28,7 +28,11 @@
 | 25 |DAGAM: a domain adversarial graph attention model for subject-independent EEG-based emotion recognition |Tao Xu et al. @ *JNE 2023*| Perturbation-based | LIME |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/acae06/meta>PDF</a>|
 | 26 |An explainable and interpretable model for attention deficit hyperactivity disorder in children using EEG signals | Smith K. Khare et al. @ *Computers in Biology and Medicine 2023*| Perturbation-based | LIME |Local | Attribution |<a href=https://www.sciencedirect.com/science/article/pii/S0010482523001415>PDF</a>|
 | 27 |Novel quantitative electroencephalogram feature image adapted for deep learning: Verification through classification of Alzheimer's disease dementia | Taegyun Jeong et al. @ *Frontiers in Neuroscience 2022*| Perturbation-based | LIME |Local | Attribution |<a href=https://www.frontiersin.org/articles/10.3389/fnins.2022.1033379/full>PDF</a>|
-
+| 28 |An interpretable deep learning framework for health monitoring systems: a case study of eye state detection using eeg signals |Amirhessam Tahmassebi et al. @ *IEEE SSCI 2020*| Perturbation-based | SHAP |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9308230>PDF</a>|
+| 29 |XAI4EEG: spectral and spatio-temporal explanation of deep learning-based seizure detection in EEG time series | Taegyun Jeong et al. @ *Neural Computing and Applications 2023*| Perturbation-based | SHAP |Local | Attribution |<a href=https://link.springer.com/article/10.1007/s00521-022-07809-x>PDF</a>|
+| 30 |A Deep Convolutional Neural Network Method to Detect Seizures and Characteristic Frequencies Using Epileptic Electroencephalogram (EEG) Data | Md. Rashed-Al-Mahfuz et al. @ *IEEE Journal of Translational Engineering in Health and Medicine 2021*| Perturbation-based | SHAP |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9319690>PDF</a>|
+| 31 |Nonlinear EEG analysis of mindfulness training using interpretable machine learning | Pankaj Pandey et al. @ *IEEE BIBM 2021*| Perturbation-based | SHAP |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9669457>PDF</a>|
+| 32 |Explainability Using SHAP for Epileptic Seizure Recognition | Simone A. Ludwig. @ *IEEE Big Data 2022*| Perturbation-based | LIME |Local | Attribution |<a hrefhttps://ieeexplore.ieee.org/abstract/document/10021103>PDF</a>|
 
 # EEG Systems : Robust AI Paper List
 
