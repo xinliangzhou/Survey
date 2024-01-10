@@ -21,27 +21,7 @@
 | 17 |Fine-grained Interpretability for EEG Emotion Recognition: Concat-aided Grad-CAM and Systematic Brain Functional Network | Bingxiu Liu et al. @ *IEEE TAFFC 2023*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/10160113>PDF</a>|
 | 18 |EEG-based intention recognition with deep recurrent-convolution neural network: Performance and channel selection by Grad-CAM | Yurong Li et al. @ *Neurocomputing 2020*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://www.sciencedirect.com/science/article/abs/pii/S0925231220311863>PDF</a>|
 | 19 |Deep learning reveals personalized spatial spectral abnormalities of high delta and low alpha bands in EEG of patients with early Parkinson's disease | Chunguang Chu et al. @ *JNE 2021*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ac40a0/meta>PDF</a>|
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / | |
-| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 7 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 8 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 9 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 7 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 8 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 9 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 7 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 8 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 9 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 7 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 8 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 9 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 6 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 7 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 8 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
-| 9 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / | |
+
 
 
 
