@@ -25,9 +25,9 @@
 | 22 |Use of deep learning to detect personalized spatial-frequency abnormalities in EEGs of children with ADHD | He Chen et al. @ *JNE 2019*| Backpropagation | Grad-CAM |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ab3a0a/meta>PDF</a>|
 | 23 |Visual Explanations of Deep Convolutional Neural Network for eye blinks detection in EEG-based BCI applications | Michele Lo Giudice et al. @ *IJCNN 2012*| Perturbation-based | LIME |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9892567>PDF</a>|
 | 24 |Trial-based classification of haptic tasks based on eeg data | Haneen Alsuradi et al. @ *WHC 2021*| Perturbation-based | LIME |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9517230>PDF</a>|
-
-| 23 |Use of deep learning to detect personalized spatial-frequency abnormalities in EEGs of children with ADHD | He Chen et al. @ *JNE 2019*| Perturbation-based | LIME |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ab3a0a/meta>PDF</a>|
-| 23 |Use of deep learning to detect personalized spatial-frequency abnormalities in EEGs of children with ADHD | He Chen et al. @ *JNE 2019*| Perturbation-based | LIME |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/ab3a0a/meta>PDF</a>|
+| 25 |DAGAM: a domain adversarial graph attention model for subject-independent EEG-based emotion recognition |Tao Xu et al. @ *JNE 2023*| Perturbation-based | LIME |Local | Attribution |<a href=https://iopscience.iop.org/article/10.1088/1741-2552/acae06/meta>PDF</a>|
+| 26 |An explainable and interpretable model for attention deficit hyperactivity disorder in children using EEG signals | Smith K. Khare et al. @ *Computers in Biology and Medicine 2023*| Perturbation-based | LIME |Local | Attribution |<a href=https://www.sciencedirect.com/science/article/pii/S0010482523001415>PDF</a>|
+| 27 |Novel quantitative electroencephalogram feature image adapted for deep learning: Verification through classification of Alzheimer's disease dementia | Taegyun Jeong et al. @ *Frontiers in Neuroscience 2022*| Perturbation-based | LIME |Local | Attribution |<a href=https://www.frontiersin.org/articles/10.3389/fnins.2022.1033379/full>PDF</a>|
 
 
 # EEG Systems : Robust AI Paper List
