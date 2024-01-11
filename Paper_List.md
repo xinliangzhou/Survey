@@ -43,6 +43,7 @@
 | 40 |Multimodal fuzzy fusion for enhancing the motor-imagery-based brain computer interface |Li-Wei Ko et al. @ *IEEE Computational Intelligence Magazine 2019*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/8610089>PDF</a>|
 | 41 |Inherent fuzzy entropy for the improvement of EEG complexity evaluation |Zehong Cao et al. @ *IEEE TFS 2017*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7851069>PDF</a>|
 | 42 | A new self-regulated neuro-fuzzy framework for classification of EEG signals in motor imagery BCI |Aysa Jafarifarmand et al. @ *IEEE TFS 2017*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7982748>PDF</a>|
+| 43 | Drowsiness detection by Bayesian-copula discriminant classifier based on EEG signals during daytime short nap |Dong Qian et al. @ *IEEE TBME 2016*| Rule-based | Bayesian System |Global | Bayesian Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7482804>PDF</a>|
 
 # EEG Systems : Robust AI Paper List
 
