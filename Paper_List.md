@@ -33,6 +33,11 @@
 | 30 |A Deep Convolutional Neural Network Method to Detect Seizures and Characteristic Frequencies Using Epileptic Electroencephalogram (EEG) Data | Md. Rashed-Al-Mahfuz et al. @ *IEEE Journal of Translational Engineering in Health and Medicine 2021*| Perturbation-based | SHAP |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9319690>PDF</a>|
 | 31 |Nonlinear EEG analysis of mindfulness training using interpretable machine learning | Pankaj Pandey et al. @ *IEEE BIBM 2021*| Perturbation-based | SHAP |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/9669457>PDF</a>|
 | 32 |Explainability Using SHAP for Epileptic Seizure Recognition | Simone A. Ludwig. @ *IEEE Big Data 2022*| Perturbation-based | SHAP |Local | Attribution |<a href=https://ieeexplore.ieee.org/abstract/document/10021103>PDF</a>|
+| 33 |Detection of epilepsy with Electroencephalogram using rule-based classifiers |Guanjin Wang et al. @ *Neurocomputing 2017*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://www.sciencedirect.com/science/article/abs/pii/S0925231216312607>PDF</a>|
+| 34 |Detection analysis of epileptic EEG using a novel random forest model combined with grid search optimization |Xiashuang Wang et al. @ *Frontiers in Human Neuroscience 2019*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://www.frontiersin.org/articles/10.3389/fnhum.2019.00052/full>PDF</a>|
+| 35 |Early seizure detection algorithm based on intracranial EEG and random forest classification |Cristian Donos et al. @ *International Journal of Neural Systems 2015*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://www.worldscientific.com/doi/abs/10.1142/S0129065715500239>PDF</a>|
+| 36 |Random forest and filter bank common spatial patterns for EEG-based motor imagery classification |Maouia Bentlemsan et al. @ *IEEE ISMS 2014*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7280913>PDF</a>|
+| 37 |Quantifying and characterizing tonic thermal pain across subjects from EEG data using random forest models |Vishal Vijayakumar et al. @ *IEEE TBME 2017*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://ieeexplore.ieee.org/abstract/document/8049487>PDF</a>|
 
 # EEG Systems : Robust AI Paper List
 
