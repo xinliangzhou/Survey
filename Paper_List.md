@@ -41,6 +41,9 @@
 | 38 |Joint distribution adaptation based TSK fuzzy logic system for epileptic EEG signal identification |Hao Feng et al. @ *IEEE BIBM 2016*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7822543>PDF</a>|
 | 39 |EEG-based driver drowsiness estimation using an online multi-view and transfer TSK fuzzy system |Yizhang Jiang et al. @ *IEEE TITS 2020*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/9016157>PDF</a>|
 | 40 |Multimodal fuzzy fusion for enhancing the motor-imagery-based brain computer interface |Li-Wei Ko et al. @ *IEEE Computational Intelligence Magazine 2019*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/8610089>PDF</a>|
+| 41 |Inherent fuzzy entropy for the improvement of EEG complexity evaluation |Zehong Cao et al. @ *IEEE TFS 2017*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7851069>PDF</a>|
+
+| 42 |A new self-regulated neuro-fuzzy framework for classification of EEG signals in motor imagery BCI |Aysa Jafarifarmand et al. @ *IEEE TFS 2017*| Rule-based | Fuzzy Inference System |Global | Fuzzy Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7982748>PDF</a>|
 
 # EEG Systems : Robust AI Paper List
 
