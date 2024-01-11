@@ -46,6 +46,8 @@
 | 43 | Drowsiness detection by Bayesian-copula discriminant classifier based on EEG signals during daytime short nap |Dong Qian et al. @ *IEEE TBME 2016*| Rule-based | Bayesian System |Global | Bayesian Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7482804>PDF</a>|
 | 44 | Separation and recovery Markov boundary discovery and its application in EEG-based emotion recognition |Xingyu Wu et al. @ *Information Sciences 2021*| Rule-based | Bayesian System |Global | Bayesian Rules |<a href=https://www.sciencedirect.com/science/article/abs/pii/S0020025521004060>PDF</a>|
 | 45 | Epileptic seizure detection using lacunarity and Bayesian linear discriminant analysis in intracranial EEG |Weidong Zhou et al. @ *IEEE TBME 2013*| Rule-based | Bayesian System |Global | Bayesian Rules |<a href=https://ieeexplore.ieee.org/abstract/document/6508865>PDF</a>|
+| 46 | Sparse Bayesian Classification of EEG for Brain–Computer Interface |Yu Zhang et al. @ *IEEE TNNLS 2015*| Rule-based | Bayesian System |Global | Bayesian Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7274734>PDF</a>|
+
 
 # EEG Systems : Robust AI Paper List
 
