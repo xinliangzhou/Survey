@@ -38,6 +38,7 @@
 | 35 |Early seizure detection algorithm based on intracranial EEG and random forest classification |Cristian Donos et al. @ *International Journal of Neural Systems 2015*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://www.worldscientific.com/doi/abs/10.1142/S0129065715500239>PDF</a>|
 | 36 |Random forest and filter bank common spatial patterns for EEG-based motor imagery classification |Maouia Bentlemsan et al. @ *IEEE ISMS 2014*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7280913>PDF</a>|
 | 37 |Quantifying and characterizing tonic thermal pain across subjects from EEG data using random forest models |Vishal Vijayakumar et al. @ *IEEE TBME 2017*| Rule-based | Random Forest |Global | Decision Rules |<a href=https://ieeexplore.ieee.org/abstract/document/8049487>PDF</a>|
+| 38 |Joint distribution adaptation based TSK fuzzy logic system for epileptic EEG signal identification |Hao Feng et al. @ *IEEE BIBM 2016*| Rule-based | Fuzzy Inference System |Global | Decision Rules |<a href=https://ieeexplore.ieee.org/abstract/document/7822543>PDF</a>|
 
 # EEG Systems : Robust AI Paper List
 
