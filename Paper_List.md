@@ -52,7 +52,7 @@
 
 # EEG Systems : Robust AI Paper List
 
-| Paper ID | Paper Title | Authors | Interpretability Categories | Interpretability Methods | Coverage | Code |
+| Paper ID | Paper Title | Authors | Undesirable Factors | Subcategory | Methods | PDF |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Lee, “Spatio-spectral feature representation for motor imagery classification using convolutional neural netwo | J.-S. Bang et al. | Backpropagation Methods | LRP | Attribution | / |
 | 2 | Explainable EEG-based Emotion Recognition using Convolutional Neural Networks | Saba Ghassemi et al. | Deep Learning | Convolutional Neural Network (CNN) |  | / |
