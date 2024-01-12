@@ -52,7 +52,7 @@
 
 # EEG Systems : Robust AI Paper List
 
-| Paper ID | Paper Title | Authors | Undesirable Factors | Subcategory | Methods | PDF |
+| Paper ID | Paper Title | Authors & Published@ | Undesirable Factors | Subcategory | Methods | PDF |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | EEG Signal denoising using hybrid approach of Variational Mode Decomposition and wavelets for depression | Chamandeep Kaur et al. | Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1746809420304511>PDF</a> |
 | 2 | EEG fading data classification based on improved manifold learning with adaptive neighborhood selection | Zitong Wan et al. |Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S092523122101715X>PDF</a> |
