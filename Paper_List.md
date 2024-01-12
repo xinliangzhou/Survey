@@ -54,7 +54,7 @@
 
 | Paper ID | Paper Title | Authors | Undesirable Factors | Subcategory | Methods | PDF |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Lee, “Spatio-spectral feature representation for motor imagery classification using convolutional neural netwo | J.-S. Bang et al. | Backpropagation Methods | LRP | Attribution | / |
+| 1 | EEG Signal denoising using hybrid approach of Variational Mode Decomposition and wavelets for depression | Chamandeep Kaur et al. | Noiseand Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1746809420304511>PDF</a> |
 | 2 | Explainable EEG-based Emotion Recognition using Convolutional Neural Networks | Saba Ghassemi et al. | Deep Learning | Convolutional Neural Network (CNN) |  | / |
 | 3 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / |
 | 4 | Interpreting EEG-based motor imagery classification using attention-based deep neural networks | Yuchen Liu et al. | Deep Learning | Attention-based Neural Network |  | / |
