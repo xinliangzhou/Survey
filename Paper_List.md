@@ -53,7 +53,7 @@
 # EEG Systems : Robust AI Paper List
 
 | Paper ID | Paper Title | Authors | Undesirable Factors | Subcategory | Methods | PDF |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | EEG Signal denoising using hybrid approach of Variational Mode Decomposition and wavelets for depression | Chamandeep Kaur et al. | Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1746809420304511>PDF</a> |
 | 2 | Explainable EEG-based Emotion Recognition using Convolutional Neural Networks | Saba Ghassemi et al. | Deep Learning | Convolutional Neural Network (CNN) |  | / |
 | 3 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / |
