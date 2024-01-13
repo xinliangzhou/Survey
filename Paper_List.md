@@ -56,6 +56,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | EEG Signal denoising using hybrid approach of Variational Mode Decomposition and wavelets for depression | Chamandeep Kaur et al. @*Biomedical Signal Processing and Control 2021* | Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1746809420304511>PDF</a> |
 | 2 | EEG fading data classification based on improved manifold learning with adaptive neighborhood selection | Zitong Wan et al. @*Neurocomputing 2022* |Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S092523122101715X>PDF</a> |
+| 3 | EEG-inception: an accurate and robust end-to-end neural network for EEG-based motor imagery classification | Ce Zhang et al. @*JNE 2021* |Noise and Artifacts | Internal Artifacts | Models' Self-Robustness | <a href=https://iopscience.iop.org/article/10.1088/1741-2552/abed81/meta>PDF</a> |
 | 3 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / |
 | 4 | Interpreting EEG-based motor imagery classification using attention-based deep neural networks | Yuchen Liu et al. | Deep Learning | Attention-based Neural Network |  | / |
 | 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
