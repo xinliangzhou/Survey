@@ -29,6 +29,14 @@ and timeliness.
 
 
 ## Comparison of different interpretanility methods in EEG Systems
+|                                  | **Backpropagation-based Method**                                                                 | **Perturbation-based Method**                                                  | **Rule-based Method**                                                             |
+|----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Mechanism**                    | Analyze the feature contribution by backpropagating the gradients from predictions.             | Explain the original model's behavior with local surrogate models.            | Explain model using specific logic rules                                         |
+| **Explanation Stage**            | Post-hoc                                                                                         | Post-hoc                                                                       | Ante-hoc                                                                          |
+| **Model Dependence**             | Model-specific                                                                                   | Model-agnostic                                                                 | Model-agnostic                                                                    |
+| **Flexibility**                  | Low                                                                                              | High                                                                           | High                                                                              |
+| **Application Scenario**         | Differentiable models                                                                            | Tolerable of high computational costs                                          | Availability of priori knowledge                                                  |
+| **Limitation**                   | Gradient dependency; Narrow applicability                                                        | Computationally intensive; Prone to overfitting                                | Oversimplify complex EEG systems; Require domain expertise                        |
 
 
 ## Summary of Robust AI in EEG Systems
