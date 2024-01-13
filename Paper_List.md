@@ -63,25 +63,4 @@
 | 7 | Dynamic domain adaptation for class-aware cross-subject and cross-session EEG emotion recognition | He Wang et al. @*IEEE JBHI 2022* |Human Variability |Cross-subject Issues | Dynamic Domain Adaptation | <a href=https://ieeexplore.ieee.org/abstract/document/9904850>PDF</a> |
 | 8 | Constructing a personalized cross-day EEG-based emotion-classification model using transfer learning | Yuan-Pin Lin. @*IEEE JBHI 2019* |Human Variability |Cross-session Issues | Transfer Learning | <a href=https://ieeexplore.ieee.org/abstract/document/8793187>PDF</a> |
 | 9 | Cross-session classification of mental workload levels using EEG and an adaptive deep learning model | Zhong Yin et al. @*Biomedical Signal Processing and Control 2017* |Human Variability |Cross-session Issues | Robust Feature Extraction | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1746809416302014>PDF</a> |
-| 3 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / |
-| 4 | Interpreting EEG-based motor imagery classification using attention-based deep neural networks | Yuchen Liu et al. | Deep Learning | Attention-based Neural Network |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
-| 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
+| 10 | Reconstruction of missing channel in electroencephalogram using spatiotemporal correlation-based averaging | Nooshin Bahador et al. @*JNE 2021* |Data Acquistion Instability |Resistance Change | Attention Mechanism | <a href=https://iopscience.iop.org/article/10.1088/1741-2552/ac23e2/meta>PDF</a> |
