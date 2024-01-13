@@ -42,3 +42,13 @@ and timeliness.
 
 
 ## Summary of Robust AI in EEG Systems
+
+| **Undesirable Factors**                | **Subcategory**           | **Methods** |
+|----------------------------------------|---------------------------|--------------------------------------|
+| **Noise and Artifacts**                | External Noise            | Traditional Signal Processing  |
+|                                        | Internal Artifacts        | Models' Self-Robustness  |
+| **Human Variability**                  | Cross-subject Issues      | Transfer Learning , Dynamic Domain Adaptation  |
+|                                        | Cross-session Issues      | Transfer Learning , Robust Feature Extraction  |
+| **Data Acquisition Instability**       | Resistance Change         | Attention Mechanism  |
+|                                        | Channel Missing \& Broken | Missing Data Reconstruction  |
+| **Adversarial Attacks**                | Evasion \& Manipulation   | Adversarial Training |
