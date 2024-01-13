@@ -12,6 +12,8 @@ and timeliness.
 2. We propose a novel taxonomy of interpretability and robustness for EEG systems.
 3. We summarize and highlight the emerging and most representative interpretable and robust AI works related to EEG systems.
 4. We discuss some open problems and promising directions for future EEG systems.
+5. A selected top tier paper list focusing interpretability and robustness of AI in EEG systems, and the list goes here: <a href=https://github.com/xinliangzhou/Survey/blob/main/Paper_List.md>Paper List</a> 
+
 
 ## Summary of Interpretable AI in EEG Systems
 | **Interpretability Categories** | **Methods** | **Coverage** | **Explanation Type** |
