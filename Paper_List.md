@@ -54,8 +54,8 @@
 
 | Paper ID | Paper Title | Authors & Published@ | Undesirable Factors | Subcategory | Methods | PDF |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | EEG Signal denoising using hybrid approach of Variational Mode Decomposition and wavelets for depression | Chamandeep Kaur et al. | Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1746809420304511>PDF</a> |
-| 2 | EEG fading data classification based on improved manifold learning with adaptive neighborhood selection | Zitong Wan et al. |Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S092523122101715X>PDF</a> |
+| 1 | EEG Signal denoising using hybrid approach of Variational Mode Decomposition and wavelets for depression | Chamandeep Kaur et al. @*Biomedical Signal Processing and Control 2021* | Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1746809420304511>PDF</a> |
+| 2 | EEG fading data classification based on improved manifold learning with adaptive neighborhood selection | Zitong Wan et al. @*Neurocomputing 2022* |Noise and Artifacts | External Noise | Traditional Signal Processing | <a href=https://www.sciencedirect.com/science/article/abs/pii/S092523122101715X>PDF</a> |
 | 3 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / |
 | 4 | Interpreting EEG-based motor imagery classification using attention-based deep neural networks | Yuchen Liu et al. | Deep Learning | Attention-based Neural Network |  | / |
 | 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
