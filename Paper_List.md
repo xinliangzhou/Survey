@@ -1,7 +1,7 @@
 # EEG Systems : Interpretable AI Paper List
 
 | Paper ID | Paper Title | Authors & Published@| Interpretability Categories | Interpretability Methods | Coverage |Explanation Type |PDF|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Spatio-spectral feature representation for motor imagery classification using convolutional neural network | By J.-S. Bang et al. @ *TNNLS 2021*| Backpropagation | LRP | Local/Global | Attribution | <a href=https://ieeexplore.ieee.org./document/9325918>PDF</a> |
 | 2 | A gradient-based approach for explaining multimodal deep learning classifiiers | By C. A Ellis et al. @ *BIBE 2021*| Backpropagation | LRP | Local/Global | Attribution | <a href=https://ieeexplore.ieee.org./document/9635460>PDF</a> |
 | 3 | Relevance based channel selection in motor imagery brain-computer interface | A. Nagarajan et al. @ *JNE 2022*| Backpropagation | LRP | Local/Global | Attribution |  <a href=https://iopscience.iop.org/article/10.1088/1741-2552/acae07/pdf>PDF</a>|
@@ -60,6 +60,7 @@
 | 4 | Optimized deep neural network architecture for robust detection of epileptic seizures using EEG signals | Ramy Hussein et al. @*Clinical Neurophysiology 2019* |Noise and Artifacts | Internal Artifacts | Models' Self-Robustness | <a href=https://www.sciencedirect.com/science/article/abs/pii/S1388245718313464>PDF</a> |
 | 5 | Multisource transfer learning for cross-subject EEG emotion recognition | Jinpeng Li et al. @*IEEE TCYB 2019* |Human Variability |Cross-subject Issues | Transfer Learning | <a href=https://ieeexplore.ieee.org/abstract/document/8675478>PDF</a> |
 | 6 | EEG-Based Motor Imagery Recognition Framework via Multisubject Dynamic Transfer and Iterative Self-Training | He Wang et al. @*IEEE TNNLS 2023* |Human Variability |Cross-subject Issues | Transfer Learning | <a href=https://ieeexplore.ieee.org/abstract/document/10049147>PDF</a> |
+| 7 | Dynamic domain adaptation for class-aware cross-subject and cross-session EEG emotion recognition | He Wang et al. @*IEEE JBHI 2022* |Human Variability |Cross-subject Issues | Dynamic Domain Adaptation | <a href=https://ieeexplore.ieee.org/abstract/document/9904850>PDF</a> |
 | 3 | Interpretable EEG classification via channel-wise feature importance learning | Xiaowei Huang et al. | Deep Learning | Feature Importance Learning |  | / |
 | 4 | Interpreting EEG-based motor imagery classification using attention-based deep neural networks | Yuchen Liu et al. | Deep Learning | Attention-based Neural Network |  | / |
 | 5 | Interpretable brain-computer interface via regularized feature selection and deep learning | Zhanpeng Huang et al. | Deep Learning | Regularized Feature Selection |  | / |
