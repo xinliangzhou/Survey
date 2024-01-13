@@ -12,3 +12,23 @@ and timeliness.
 2. We propose a novel taxonomy of interpretability and robustness for EEG systems.
 3. We summarize and highlight the emerging and most representative interpretable and robust AI works related to EEG systems.
 4. We discuss some open problems and promising directions for future EEG systems.
+
+## Summary of Interpretable AI in EEG Systems
+| **Interpretability Categories** | **Methods** | **Coverage** | **Explanation Type** |
+|---------------------------------|-------------|--------------|----------------------|
+| *Backpropagation-based Methods* | LRP         | Local/Global | Attribution          |
+|                                 | DeepLIFT    | Local/Global | Attribution          |
+|                                 | CAM         | Local        | Attribution          |
+|                                 | Grad-CAM    | Local        | Attribution          |
+| *Perturbation-based Methods*    | LIME        | Local        | Attribution          |
+|                                 | SHAP        | Local        | Attribution          |
+| *Rule-based Methods*            | RF          | Global       | Decision Rules       |
+|                                 | FIS         | Global       | Fuzzy Rules          |
+|                                 | BS          | Global       | Bayesian Rules       |
+
+
+
+## Comparison of different interpretanility methods in EEG Systems
+
+
+## Summary of Robust AI in EEG Systems
