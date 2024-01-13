@@ -22,9 +22,9 @@ and timeliness.
 |                                 | Grad-CAM    | Local        | Attribution          |
 | *Perturbation-based Methods*    | LIME        | Local        | Attribution          |
 |                                 | SHAP        | Local        | Attribution          |
-| *Rule-based Methods*            | RF          | Global       | Decision Rules       |
-|                                 | FIS         | Global       | Fuzzy Rules          |
-|                                 | BS          | Global       | Bayesian Rules       |
+| *Rule-based Methods*            | Random Forest          | Global       | Decision Rules       |
+|                                 | Fuzzy Inference Systems         | Global       | Fuzzy Rules          |
+|                                 | Bayesian Systems          | Global       | Bayesian Rules       |
 
 
 
