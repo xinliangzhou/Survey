@@ -18,13 +18,13 @@ and timeliness.
 ## Summary of Interpretable AI in EEG Systems
 | **Interpretability Categories** | **Methods** | **Coverage** | **Explanation Type** |
 |---------------------------------|-------------|--------------|----------------------|
-| *Backpropagation-based Methods* | LRP         | Local/Global | Attribution          |
+| **Backpropagation-based Methods** | LRP         | Local/Global | Attribution          |
 |                                 | DeepLIFT    | Local/Global | Attribution          |
 |                                 | CAM         | Local        | Attribution          |
 |                                 | Grad-CAM    | Local        | Attribution          |
-| *Perturbation-based Methods*    | LIME        | Local        | Attribution          |
+| **Perturbation-based Methods**    | LIME        | Local        | Attribution          |
 |                                 | SHAP        | Local        | Attribution          |
-| *Rule-based Methods*            | Random Forest          | Global       | Decision Rules       |
+| **Rule-based Methods**            | Random Forest          | Global       | Decision Rules       |
 |                                 | Fuzzy Inference Systems         | Global       | Fuzzy Rules          |
 |                                 | Bayesian Systems          | Global       | Bayesian Rules       |
 
