@@ -1,4 +1,4 @@
-# <a href=https://arxiv.org/abs/2304.10755>Interpretable and Robust AI in EEG Systems: A Survey</a>|
+# <a href=https://arxiv.org/abs/2304.10755>Interpretable and Robust AI in EEG Systems: A Survey</a>
 
 
 
